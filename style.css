@@ -9,16 +9,16 @@
 }
 
 body {
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Courier New', Courier, monospace, Helvetica, sans-serif;
     line-height: 1.6;
     margin: 0;
-    color: #3B2A1E;             /* marrom escuro (texto) */
-    background-color: #FFF8F0;  /* creme (fundo) */
+    color: #dda218;             /* amarelo (texto) */
+    background-color: #643805;  /* marrom (fundo) */
 }
 
 /* ===== Cabeçalho ===== */
 .cabecalho {
-    background-color: #bc0e88;  /* âmbar escuro — texto branco tem contraste AA */
+    background-color: #ff0000;  /* âmbar escuro — texto branco tem contraste AA */
     color: #FFFFFF;
     text-align: center;
     padding: 24px 16px;
@@ -111,7 +111,7 @@ blockquote {
 
 /* ===== Rodapé ===== */
 .rodape {
-    background-color: #3B2A1E;
+    background-color: #d89f77; /* modifiquei a cor do rodapé */
     color: #FFFFFF;
     text-align: center;
     padding: 16px;
